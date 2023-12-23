@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 10px solid black;
+    margin: 10px;
+    background-color: grey;
+    padding: 5px;
+}
+
+.enlaces {
+    display: inline-block;
+    margin: 20px;
+    text-decoration: none;
+    color: beige;
+
+    
+}
